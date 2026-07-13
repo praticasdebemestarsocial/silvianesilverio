@@ -1,0 +1,41 @@
+:root {
+  /* Midnight Velvet Palette - Premium Theme */
+  --midnight-base: #0F111A; /* Fundo escuro luxuoso */
+  --midnight-surface: #1A1D2D; /* Fundo secundário (sidebar/cards) */
+  --velvet-accent: #A855F7; /* Roxo vibrante/neon para destaque */
+  --velvet-hover: #C084FC; /* Roxo mais claro para interações */
+  --cyan-glow: #22D3EE; /* Ciano moderno para links */
+  --platinum-text: #F8FAFC; /* Branco gelo para texto principal */
+  --slate-muted: #94A3B8; /* Cinza azulado para texto secundário */
+}
+
+/* Forçando capitalização em qualquer modo (claro/escuro) */
+.site-title, #topbar-title, .topbar-title {
+  text-transform: capitalize !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.5px !important;
+}
+
+html[data-mode="dark"], [data-bs-theme="dark"] {
+  /* Substituindo as cores do modo escuro do Chirpy */
+  --main-bg: var(--midnight-base) !important; 
+  --sidebar-bg: var(--midnight-surface) !important;
+  --text-color: var(--platinum-text) !important;
+  --link-color: var(--cyan-glow) !important;
+  --link-hover-color: var(--velvet-hover) !important;
+  --heading-color: #FFFFFF !important;
+  --text-muted-color: var(--slate-muted) !important;
+  
+  /* Ajustes finos de bordas e destaques */
+  --site-title-color: #E2E8F0 !important; /* Off-white suave, não agressivo aos olhos */
+  --site-subtitle-color: #CBD5E1 !important; /* Um tom ligeiramente mais opaco para hierarquia */
+  --sidebar-muted-color: #E2E8F0 !important; /* Links inativos do menu */
+  --sidebar-btn-color: #E2E8F0 !important; /* Menu lateral */
+  --sidebar-active-color: var(--cyan-glow) !important; /* Destaque no item selecionado */
+  --btn-border-color: #2E334D !important;
+  --card-header-bg: var(--midnight-surface) !important;
+  --toc-highlight: var(--velvet-accent) !important;
+  --categories-hover-bg: var(--midnight-base) !important;
+  --categories-icon-hover-color: var(--velvet-accent) !important;
+  --btn-bg: var(--midnight-surface) !important;
+}

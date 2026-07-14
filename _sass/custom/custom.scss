@@ -39,3 +39,10 @@ html[data-mode="dark"], [data-bs-theme="dark"] {
   --categories-icon-hover-color: var(--velvet-accent) !important;
   --btn-bg: var(--midnight-surface) !important;
 }
+/* Ajuste de espaçamento da tagline */
+.site-subtitle {
+  margin-bottom: 2.5rem !important;
+  font-size: 0.90rem !important;
+  line-height: 1.4 !important;
+}
+

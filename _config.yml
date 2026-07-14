@@ -16,7 +16,7 @@ timezone: America/Sao_Paulo
 
 title: Práticas de Bem-estar Social # the main title
 
-tagline: "Uma visão literária sobre a vida em sociedade<br>e os caminhos para o bem-estar humano."
+tagline: "Reflexões literárias sobre sociedade e bem-estar."
 
 description: >- # Bio que vai aparecer na sidebar
   Escritora e pesquisadora. Compartilhando perspectivas únicas sobre bem-estar e 
@@ -30,17 +30,16 @@ github:
   username: h-vivian1 # change to your GitHub username
 
 twitter:
-  username: autora_tweets # change to your Twitter username
+  username: # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Silviane Silvério
-  email: autora.contato@dominioficticio.com # change to your email address
+  email: silvienesilverio@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/autora_tweets
     - https://instagram.com/autora_oficial
     - https://www.linkedin.com/in/perfil-da-autora
 

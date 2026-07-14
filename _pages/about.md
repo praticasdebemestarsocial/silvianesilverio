@@ -17,7 +17,7 @@ latest_posts:
 ---
 
 <div class="text-center mt-4 mb-5">
-  <img src="{{ '/assets/img/silviane.jpg' | relative_url }}" class="img-fluid rounded-circle z-depth-2" style="width: 320px; height: 320px; object-fit: cover; border: 4px solid var(--global-theme-color);" alt="Silviane Silvério">
+  <img src="{{ '/assets/img/silviane.jpg' | relative_url }}" class="img-fluid z-depth-2" style="width: 100%; max-width: 700px; border-radius: 16px; border: 4px solid var(--global-theme-color);" alt="Silviane Silvério">
 </div>
 
 Bem-vindo ao espaço de convergência entre o saber ancestral e a ciência contemporânea. Este projeto nasce da síntese de décadas de pesquisa, prática clínica e busca filosófica, com o propósito de oferecer um caminho sólido para o autoconhecimento, a saúde integral e o florescimento humano.

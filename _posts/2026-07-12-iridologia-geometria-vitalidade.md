@@ -20,6 +20,9 @@ Você já parou para pensar por que duas pessoas, expostas ao mesmo ambiente, à
 
 No universo da saúde integrativa, a **Iridologia** desponta não como misticismo, mas como uma ferramenta poderosa de observação biológica. Neste artigo, vamos explorar a "Geometria da Vitalidade" e entender como a trama da sua íris funciona como um mapa da sua capacidade inata de adaptação e saúde.
 
+![Silviane apresentando a anatomia da íris e a Matriz Genético-Energética](/assets/img/posts/iris-presentation.jpg){: w="800" }
+_A íris humana revela muito mais do que a cor dos olhos: ela é um mapa da nossa biologia sistêmica._
+
 ## Muito além da Genética Básica: O "Terreno Biológico" {#terreno-biologico}
 
 Desde o século XIX, com os debates entre Louis Pasteur (focado no micróbio) e Antoine Béchamp (focado no terreno biológico), a ciência tenta compreender a raiz do adoecimento. Hoje, com os avanços da Biologia de Sistemas e do estudo do microbioma, sabemos que Béchamp tinha razão em um ponto fundamental: **o terreno é tudo**.

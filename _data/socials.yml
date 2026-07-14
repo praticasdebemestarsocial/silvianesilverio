@@ -5,4 +5,8 @@ lattes_id: 7481458793724724
 gravatar:
   title: Gravatar
   url: https://gravatar.com/silvianebio
-  logo: "https://gravatar.com/avatar"
+  logo: "fas fa-user-circle"
+sciprofiles:
+  title: SciProfiles
+  url: https://sciprofiles.com/profile/silvianesilverio
+  logo: "fas fa-id-card"

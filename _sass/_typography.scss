@@ -180,3 +180,132 @@ blockquote {
     opacity: 1 !important;
   }
 }
+
+/* ==========================================================================
+   Modern Navbar (Glassmorphism & Hover Effects)
+   ========================================================================== */
+
+header .navbar {
+  background-color: transparent !important;
+  border-bottom: 1px solid var(--global-divider-color);
+  padding: 1.2rem 0;
+  transition: all 0.3s ease;
+  /* position is handled by Bootstrap's fixed-top */
+  z-index: 1000;
+}
+
+/* Fundo semitransparente por trás do navbar usando blur */
+header .navbar::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-color: var(--global-bg-color);
+  opacity: 0.85;
+  z-index: -1;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.05);
+}
+
+/* Posiciona a barra de progresso azul exatamente no rodapé da navbar */
+header .navbar progress {
+  position: absolute !important;
+  bottom: 0 !important;
+  top: auto !important;
+  left: 0;
+  width: 100%;
+  height: 4px !important;
+  z-index: 1050;
+  background-color: transparent !important;
+  border: none;
+}
+header .navbar .progress-container {
+  position: absolute !important;
+  bottom: 0 !important;
+  top: auto !important;
+  left: 0;
+  width: 100%;
+  height: 4px !important;
+  background-color: transparent !important;
+}
+
+[data-theme="dark"] header .navbar::before {
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+}
+
+/* Typography & Animating Underline for Nav Links */
+.navbar-nav .nav-item .nav-link {
+  position: relative;
+  font-weight: 500;
+  margin: 0 0.8rem;
+  padding: 0.5rem 0 !important;
+  transition: color 0.3s ease;
+  color: var(--global-text-color) !important;
+  letter-spacing: 0.02em;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: var(--global-theme-color) !important;
+  text-decoration: none !important;
+}
+
+/* Linha inferior que cresce do centro */
+.navbar-nav .nav-item .nav-link::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 50%;
+  background-color: var(--global-theme-color);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  transform: translateX(-50%);
+  border-radius: 2px;
+}
+
+.navbar-nav .nav-item .nav-link:hover::after,
+.navbar-nav .nav-item.active .nav-link::after {
+  width: 100%;
+}
+
+/* Remoção de sublinhado padrão nos menus dropdown se existirem */
+.navbar-nav .nav-item.dropdown .nav-link:hover::after {
+  width: 0 !important;
+}
+
+/* ==========================================================================
+   Theme Toggle Icons (Light/Dark)
+   ========================================================================== */
+
+.toggle-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 1.5rem;
+}
+
+#light-toggle {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  color: #d97706; /* Um amarelo-dourado contrastante para o tema claro (Sol) */
+  outline: none;
+  transition: opacity 0.2s ease;
+  
+  &:hover {
+    opacity: 0.7;
+  }
+  
+  i {
+    font-size: 1.3rem;
+  }
+}
+
+[data-theme="dark"] #light-toggle {
+  color: #fde047; /* Um amarelo suave brilhante para o tema escuro (Lua) */
+}

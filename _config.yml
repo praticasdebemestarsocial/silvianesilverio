@@ -24,10 +24,10 @@ description: >- # Bio que vai aparecer na sidebar
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://silvianesilverio.github.io"
+url: "https://h-vivian1.github.io"
 
 github:
-  username: silvianesilverio # change to your GitHub username
+  username: h-vivian1 # change to your GitHub username
 
 twitter:
   username: autora_tweets # change to your Twitter username
@@ -160,7 +160,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/praticasdebemestarsocial"
+baseurl: "/Blog_-Praticas-de-Bem-Estar-Social"
 
 # ------------ The following options are not recommended to be modified ------------------
 

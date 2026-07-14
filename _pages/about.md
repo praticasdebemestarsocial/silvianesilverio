@@ -24,7 +24,7 @@ Bem-vindo ao espaço de convergência entre o saber ancestral e a ciência conte
 
 <h3 class="mt-5">Nossa Proposta</h3>
 
-Este espaço não é apenas uma escola, mas um ecossistema de aprendizado onde a Etnobotânica, o Desenvolvimento Pessoal e as Ciências do Bem-Estar se encontram para oferecer ferramentas práticas de individuação e cura.
+Este espaço não é apenas uma escola, mas um ecossistema de aprendizado onde a Etnobotânica, o Desenvolvimento Pessoal e as Ciências do Bem-Estar se encontram para oferecer ferramentas práticas de individuação e desenvolvimento contínuo.
 
 <h3 class="mt-5">Nossos Pilares</h3>
 

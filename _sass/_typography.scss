@@ -11,11 +11,13 @@ body {
 }
 
 :root {
-  --global-theme-color: #83e509;
+  /* Verde encorpado para excelente leitura no fundo claro (Light Mode) */
+  --global-theme-color: #16a34a;
 }
 
 [data-theme="dark"] {
-  --global-theme-color: #83e509;
+  /* Retorna ao Azul/Cyan original no fundo escuro (Dark Mode) */
+  --global-theme-color: #06b6d4;
 }
 
 h1,

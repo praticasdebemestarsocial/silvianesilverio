@@ -2,7 +2,7 @@ email: silvianesilverio@gmail.com
 linkedin_username: silvianesilverio
 orcid_id: 0000-0001-6311-1195
 lattes_id: 7481458793724724
-custom_social:
-  - title: Gravatar
-    url: https://gravatar.com/silvianebio
-    icon: fa-solid fa-user-circle
+gravatar:
+  title: Gravatar
+  url: https://gravatar.com/silvianebio
+  logo: "https://gravatar.com/avatar"

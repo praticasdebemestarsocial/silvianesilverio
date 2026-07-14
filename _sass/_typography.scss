@@ -196,25 +196,12 @@ blockquote {
    ========================================================================== */
 
 header .navbar {
-  background-color: transparent !important;
+  background-color: var(--global-bg-color) !important;
   border-bottom: 1px solid var(--global-divider-color);
   padding: 1.2rem 0;
   transition: all 0.3s ease;
   /* position is handled by Bootstrap's fixed-top */
   z-index: 1000;
-}
-
-/* Fundo semitransparente por trás do navbar usando blur */
-header .navbar::before {
-  content: "";
-  position: absolute;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background-color: var(--global-bg-color);
-  opacity: 0.85;
-  z-index: -1;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.05);
 }
 
 /* Posiciona a barra de progresso azul exatamente no rodapé da navbar */
@@ -239,9 +226,7 @@ header .navbar .progress-container {
   background-color: transparent !important;
 }
 
-[data-theme="dark"] header .navbar::before {
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
-}
+
 
 /* Typography & Animating Underline for Nav Links */
 .navbar-nav .nav-item .nav-link {

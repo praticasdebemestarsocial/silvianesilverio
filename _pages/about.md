@@ -21,8 +21,6 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-## Escola de Desenvolvimento Humano e Bem-Estar
-
 Bem-vindo ao espaço de convergência entre o saber ancestral e a ciência contemporânea. Este projeto nasce da síntese de décadas de pesquisa, prática clínica e busca filosófica, com o propósito de oferecer um caminho sólido para o autoconhecimento, a saúde integral e o florescimento humano.
 
 ### Nossa Proposta

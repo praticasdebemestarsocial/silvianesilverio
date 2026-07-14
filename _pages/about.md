@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Pagina Inicial
 permalink: /
 subtitle: Reflexões literárias sobre sociedade, comportamento e bem-estar.
 

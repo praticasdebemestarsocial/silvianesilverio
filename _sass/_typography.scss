@@ -10,6 +10,14 @@ body {
   line-height: 1.8;
 }
 
+:root {
+  --global-theme-color: #83e509;
+}
+
+[data-theme="dark"] {
+  --global-theme-color: #83e509;
+}
+
 h1,
 h2,
 h3,

@@ -122,8 +122,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog da Silviane # blog_name will be displayed in your blog page
-blog_description: Reflexões literárias sobre sociedade e bem-estar.
+blog_name: Blog # blog_name will be displayed in your blog page
+blog_description: Reflexões literárias sobre sociedade, comportamento e bem-estar.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

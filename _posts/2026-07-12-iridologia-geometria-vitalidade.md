@@ -7,7 +7,7 @@ categories: [Saúde Integrativa, Iridologia]
 tags: [iridologia, vitalidade, genetica, saude-preventiva, bernard-jensen]
 author: "Silviane S. Silvério"
 image:
-  path: /assets/img/posts/iris_geometry.png
+  path: /assets/img/posts/iridologia_geometria.jpeg
   alt: "Íris humana com linhas geométricas iluminadas, simbolizando a matriz genético-energética e a biologia de sistemas"
 toc: true
 comments: true
@@ -22,7 +22,7 @@ No universo da saúde integrativa, a **Iridologia** desponta não como misticism
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts/iris_geometry.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/posts/iridologia_geometria.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

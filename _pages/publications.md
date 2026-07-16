@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Artigo Científico
-description: publicações por categorias em ordem cronológica inversa. gerado pelo jekyll-scholar.
+description: "publicações por categorias em ordem cronológica inversa. gerado pelo jekyll-scholar."
 nav: true
 nav_order: 2
 ---

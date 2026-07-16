@@ -3,7 +3,7 @@ layout: post
 title: "Iridologia e a Geometria da Vitalidade: O que a íris revela sobre sua saúde inata"
 description: "Entenda como a iridologia revela sua matriz genético-energética. Descubra a ciência sistêmica por trás da avaliação da vitalidade através da íris."
 date: 2026-07-12 10:00:00 -0300
-categories: [Saúde Integrativa, Iridologia]
+categories: [Saude Integrativa, Iridologia]
 tags: [iridologia, vitalidade, genetica, saude-preventiva, bernard-jensen]
 author: "Silviane S. Silvério"
 image:

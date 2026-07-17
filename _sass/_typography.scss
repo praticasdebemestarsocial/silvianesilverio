@@ -204,6 +204,10 @@ header .navbar {
   z-index: 1000;
 }
 
+header .navbar .navbar-brand.title {
+  font-size: 1.1rem; /* Reduced font size for long title */
+}
+
 /* Posiciona a barra de progresso azul exatamente no rodapé da navbar */
 header .navbar progress {
   position: absolute !important;

@@ -2,7 +2,7 @@
 layout: about
 title: Pagina Inicial
 permalink: /
-subtitle: Reflexões literárias sobre sociedade, comportamento e bem-estar.
+subtitle: ""
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -17,7 +17,7 @@ latest_posts:
 ---
 
 <div class="text-center mt-3 mb-4">
-  <h4 style="color: var(--global-theme-color);">Plataforma de Cursos, Livros, Videos e Artigos sobre Práticas Integrativas e Complementares.</h4>
+  <h5 style="color: var(--global-theme-color); font-size: 1.25rem;">Plataforma de Cursos, Livros, Videos e Artigos sobre Práticas Integrativas e Complementares.</h5>
 </div>
 
 <div class="text-center mt-4 mb-5">

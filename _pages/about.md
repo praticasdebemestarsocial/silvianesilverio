@@ -16,12 +16,15 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
+<div class="text-center mt-3 mb-4">
+  <h4 style="color: var(--global-theme-color);">Plataforma de Cursos, Livros, Videos e Artigos sobre Práticas Integrativas e Complementares.</h4>
+</div>
+
 <div class="text-center mt-4 mb-5">
   <img src="{{ '/assets/img/silviane.jpeg' | relative_url }}" class="img-fluid z-depth-2" style="width: 100%; max-width: 700px; border-radius: 16px; border: 4px solid var(--global-theme-color);" alt="Silviane Silvério">
 </div>
 
-Bem-vindo ao ponto de convergência entre o saber ancestral e o rigor da ciência contemporânea.
-Este projeto nasce da síntese de décadas de pesquisa, prática clínica e reflexão filosófica, com o propósito de oferecer um caminho sólido, ético e fundamentado para o desenvolvimento humano e o bem-estar integral.
+Bem-vindo ao ponto de convergência entre o saber ancestral e o rigor da ciência contemporânea. Reflexões literárias sobre sociedade, comportamento e bem-estar. Este projeto nasce da síntese de décadas de pesquisa, prática clínica e reflexão filosófica, com o propósito de oferecer um caminho sólido, ético e fundamentado para o desenvolvimento humano e o bem-estar integral.
 
 <h3 class="mt-5">Nossa Proposta</h3>
 

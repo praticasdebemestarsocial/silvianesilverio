@@ -61,6 +61,23 @@ cv:
         end_date: 2010
         score: "1300 horas"
 
+      - institution: INAESP Educacional
+        area: Ozonioterapia Estética (40 horas)
+        studyType: Curso Livre
+        start_date: 2020
+        end_date: 2020
+        highlights:
+          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_ozonioterapia_estetica.jpg' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
+
+      - institution: Clínica Sustentare Saúde
+        location: Rio de Janeiro - RJ
+        area: Ozonioterapia Medicinal (36 horas)
+        studyType: Curso Livre
+        start_date: 2019
+        end_date: 2019
+        highlights:
+          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_ozonioterapia_medicinal.jpg' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
+
     Experience:
       - company: Autônoma (Escritora e Criadora de Conteúdo)
         position: Biomédica Integrativa, Pesquisadora e Escritora

@@ -36,22 +36,19 @@ Mais do que uma escola, este é um ecossistema de aprendizado e pesquisa. Aqui, 
 <h3 class="mt-5">Nossos Pilares</h3>
 
 ```mermaid
-graph LR
-    %% Root
-    Root((Nossos Pilares))
+flowchart LR
+    %% Nós do Lado Esquerdo (com setas para a esquerda)
+    P3_1(Aliamos o rigor da ciência<br/>biomédica contemporânea à<br/>sabedoria ancestral das plantas e<br/>da naturologia.) <-- P3
+    P3_2(Entendemos que a natureza é a<br/>primeira farmácia e que o cuidado<br/>com o corpo físico é o alicerce<br/>fundamental para a clareza<br/>mental e o equilíbrio emocional.) <-- P3
+    
+    P4_1(Acreditamos que a transformação<br/>interior não é um ato isolado.) <-- P4
+    P4_2(O desenvolvimento pessoal,<br/>quando bem orientado,<br/>transborda em impacto social.) <-- P4
+    P4_3(Formamos indivíduos mais<br/>íntegros, capazes de atuar em<br/>suas comunidades com maior<br/>percepção, ética e propósito.) <-- P4
 
-    %% Left Side equivalents (flowing right in this LR layout)
-    Root --> P3[Biomedicina Integrativa e<br/>Etnobotânica]
-    Root --> P4[Desenvolvimento Humano e<br/>Bem-Estar Social]
+    P3[Biomedicina Integrativa e<br/>Etnobotânica] <-- Root((Nossos Pilares))
+    P4[Desenvolvimento Humano e<br/>Bem-Estar Social] <-- Root
 
-    P3 --> P3_1(Aliamos o rigor da ciência<br/>biomédica contemporânea à<br/>sabedoria ancestral das plantas e<br/>da naturologia.)
-    P3 --> P3_2(Entendemos que a natureza é a<br/>primeira farmácia e que o cuidado<br/>com o corpo físico é o alicerce<br/>fundamental para a clareza<br/>mental e o equilíbrio emocional.)
-
-    P4 --> P4_1(Acreditamos que a transformação<br/>interior não é um ato isolado.)
-    P4 --> P4_2(O desenvolvimento pessoal,<br/>quando bem orientado,<br/>transborda em impacto social.)
-    P4 --> P4_3(Formamos indivíduos mais<br/>íntegros, capazes de atuar em<br/>suas comunidades com maior<br/>percepção, ética e propósito.)
-
-    %% Right Side equivalents
+    %% Nós do Lado Direito (com setas para a direita)
     Root --> P1[Psicologia Profunda e Expansão<br/>da Consciência]
     Root --> P2[Filosofia Ancestral e<br/>Cosmovisões Integrativas]
 

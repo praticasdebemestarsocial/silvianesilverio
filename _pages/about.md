@@ -35,7 +35,7 @@ Mais do que uma escola, este é um ecossistema de aprendizado e pesquisa. Aqui, 
 
 <h3 class="mt-5">Nossos Pilares</h3>
 
-```mermaid
+<div class="mermaid">
 mindmap
   root((Nossos Pilares))
     Psicologia Profunda e Expansão da Consciência
@@ -54,7 +54,7 @@ mindmap
       (Acreditamos que a transformação interior não é um ato isolado.)
       (O desenvolvimento pessoal, quando bem orientado, transborda em impacto social.)
       (Formamos indivíduos mais íntegros, capazes de atuar em suas comunidades com maior percepção, ética e propósito.)
-```
+</div>
 
 <h3 class="mt-5">Por que nos acompanhar?</h3>
 

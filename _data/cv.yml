@@ -46,8 +46,7 @@ cv:
         score: "3200 horas"
         highlights:
           - "Estágio de laboratório em análises clínicas em 2023 no Hospital Waldemar De Alcântara na cidade de Mulungu no Ceará."
-          - "⚠️ **Atenção:** As fotos da formatura e de outros iridologistas devem ser adicionadas na pasta `assets/img/cv/` com os nomes `formatura1.jpg` e `formatura2.jpg` para aparecerem aqui."
-          - "<img src='/al-folio/assets/img/cv/formatura1.jpg' style='max-width:300px; margin-top:10px;'/> <img src='/al-folio/assets/img/cv/formatura2.jpg' style='max-width:300px; margin-top:10px;'/>"
+          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/diploma_biomedicina.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; margin-top: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
 
       - institution: Instituto de Naturologia e Capelania do Ceará (IBRANAC)
         location: Fortaleza - CE

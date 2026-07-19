@@ -3,6 +3,9 @@ layout: about
 title: Pagina Inicial
 permalink: /
 subtitle: ""
+mermaid:
+  enabled: true
+  zoomable: true
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,14 +35,26 @@ Mais do que uma escola, este é um ecossistema de aprendizado e pesquisa. Aqui, 
 
 <h3 class="mt-5">Nossos Pilares</h3>
 
-1. **Psicologia Profunda e Expansão da Consciência**
-   Inspirados na tradição junguiana e transpessoal, oferecemos métodos para a exploração da psique e dos arquétipos. O autoconhecimento é tratado como um processo de individuação, convidando o indivíduo a integrar sua sombra e expandir sua consciência de forma estruturada e segura.
-2. **Filosofia Ancestral e Cosmovisões Integrativas**
-   Resgatamos a sabedoria dos povos originários das Américas, a astronomia e a filosofia Maia, e os princípios da Medicina Tradicional Chinesa. Ensinamos a observar a saúde não como uma linha reta de sintomas, mas como um ciclo de harmonia com a natureza, o cosmos e o tempo, integrando a visão sistêmica do corpo e da mente.
-3. **Biomedicina Integrativa e Etnobotânica**
-   Aliamos o rigor da ciência biomédica contemporânea à sabedoria ancestral das plantas e da naturologia. Entendemos que a natureza é a primeira farmácia e que o cuidado com o corpo físico é o alicerce fundamental para a clareza mental e o equilíbrio emocional.
-4. **Desenvolvimento Humano e Bem-Estar Social**
-   Acreditamos que a transformação interior não é um ato isolado. O desenvolvimento pessoal, quando bem orientado, transborda em impacto social. Formamos indivíduos mais íntegros, capazes de atuar em suas comunidades com maior percepção, ética e propósito.
+```mermaid
+mindmap
+  root((Nossos Pilares))
+    Psicologia Profunda e Expansão da Consciência
+      (Inspirados na tradição junguiana e transpessoal, oferecemos métodos para a exploração da psique e dos arquétipos.)
+      (O autoconhecimento é tratado como um processo de individuação.)
+      (Convidando o indivíduo a integrar sua sombra e expandir sua consciência de forma estruturada e segura.)
+    Filosofia Ancestral e Cosmovisões Integrativas
+      (Resgatamos a sabedoria dos povos originários das Américas, a astronomia e a filosofia Maia, e os princípios da Medicina Tradicional Chinesa.)
+      (Ensinamos a observar a saúde não como uma linha reta de sintomas, mas como um ciclo de harmonia com a natureza, o cosmos e o tempo.)
+      (Integrando a visão sistêmica do corpo e da mente.)
+    Biomedicina Integrativa e Etnobotânica
+      (Aliamos o rigor da ciência biomédica contemporânea à sabedoria ancestral das plantas e da naturologia.)
+      (Entendemos que a natureza é a primeira farmácia.)
+      (E que o cuidado com o corpo físico é o alicerce fundamental para a clareza mental e o equilíbrio emocional.)
+    Desenvolvimento Humano e Bem-Estar Social
+      (Acreditamos que a transformação interior não é um ato isolado.)
+      (O desenvolvimento pessoal, quando bem orientado, transborda em impacto social.)
+      (Formamos indivíduos mais íntegros, capazes de atuar em suas comunidades com maior percepção, ética e propósito.)
+```
 
 <h3 class="mt-5">Por que nos acompanhar?</h3>
 

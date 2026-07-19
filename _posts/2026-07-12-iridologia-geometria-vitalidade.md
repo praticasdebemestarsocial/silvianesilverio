@@ -78,7 +78,10 @@ Se você é estudante, profissional da saúde, pesquisador ou simplesmente fasci
 
 No ensaio, exploro detalhadamente a tríade epistemológica que conecta a Morfologia Tecidual Digital, a Biologia de Sistemas e a Teoria de Bernard Jensen.
 
-🔗 **[Clique aqui para ler o artigo acadêmico completo e baixar o PDF no Zenodo] (COLOQUE_O_LINK_DO_ZENODO_AQUI)**
+🔗 **[Clique aqui para ler o artigo acadêmico completo e baixar o PDF no Zenodo](https://doi.org/10.5281/zenodo.21388079)**
+
+**Referência Bibliográfica (ABNT):**  
+SILVÉRIO, S. **Geometria da Vitalidade: A Trama Iridológica e a Cartografia da Matriz Genético-Energética**. Zenodo, 2026. DOI: 10.5281/zenodo.21388079. Disponível em: <https://doi.org/10.5281/zenodo.21388079>.
 
 ***
 *Siga acompanhando nosso blog para mais artigos sobre Saúde Integrativa e a Biologia dos Sistemas.*

@@ -161,15 +161,15 @@ cv:
         end_date: 2009
 
     Certificates:
-      - name: "<a href='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_gestao.png' target='_blank' style='text-decoration: underline;'>Gestão de Práticas Integrativas e Complementares (80h)</a>"
+      - name: "Gestão de Práticas Integrativas e Complementares (80h)<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_gestao.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
         date: 2022
         issuer: AVASUS (Ministério da Saúde)
         icon: fa-solid fa-award
-      - name: "<a href='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_plantas.png' target='_blank' style='text-decoration: underline;'>Qualificação em Plantas Medicinais e Fitoterápicos na Atenção Básica (100h)</a>"
+      - name: "Qualificação em Plantas Medicinais e Fitoterápicos na Atenção Básica (100h)<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_plantas.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
         date: 2022
         issuer: AVASUS (Ministério da Saúde)
         icon: fa-solid fa-award
-      - name: "<a href='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_mtc.png' target='_blank' style='text-decoration: underline;'>Práticas Corporais e Mentais na Medicina Tradicional Chinesa (60h)</a>"
+      - name: "Práticas Corporais e Mentais na Medicina Tradicional Chinesa (60h)<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_mtc.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
         date: 2022
         issuer: AVASUS (Ministério da Saúde)
         icon: fa-solid fa-award

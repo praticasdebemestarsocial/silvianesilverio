@@ -152,7 +152,7 @@
 {% if page.url == '/cv/' %}
 <style>
 /* Torna a foto de perfil redonda */
-img[src*='foto_perfil.jpg'] {
+img[src*='foto_perfil.jpg'], img[src*='silviane.jpeg'] {
     border-radius: 50% !important;
     width: 150px !important;
     height: 150px !important;
@@ -160,6 +160,12 @@ img[src*='foto_perfil.jpg'] {
     margin: 0 auto;
     display: block;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Remove negrito/itálico forçado das descrições do currículo (rendercv usa strong/em/b por padrão nas descrições) */
+.cv p, .cv .summary, .cv em, .cv b, .cv strong {
+    font-weight: 300 !important;
+    font-style: normal !important;
 }
 </style>
 

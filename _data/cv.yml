@@ -66,12 +66,13 @@ cv:
       
       - company: Clínica de Fisioterapia Dr. Robério
         location: Baturité - CE
-        position: Terapeuta Natural
+        position: Naturóloga
         start_date: 2014
-        end_date: 2024
+        end_date: 2023
         summary: "Realização de Spa de Terapias Naturais e Bem-estar eventuais."
 
       - company: Autônoma
+        location: Balneário Camboriú e São José - SC
         position: Ozonoterapeuta
         start_date: 2020
         end_date: 2022
@@ -79,18 +80,30 @@ cv:
 
       - company: Clínica Pedra Flor
         location: Blumenau - SC
-        position: Naturóloga
+        position: Naturóloga, Iridologista e Auriculoterapeuta
         start_date: 2017
         end_date: 2018
 
-      - company: Pousada Kapitão Tomaz
+      - company: Clínica Long Life
+        location: Blumenau - SC
         position: Massoterapeuta
+        summary: "Prestação de serviço como massoterapeuta em eventos corporativos."
+
+      - company: Pousada Kapitão Tomaz
+        location: Jericoacoara - CE
+        position: Massoterapeuta
+        start_date: 2012
+        end_date: 2015
+
+      - company: Autônoma
+        location: Jericoacoara - CE
+        position: Naturóloga e Iridologista
         start_date: 2012
         end_date: 2015
 
       - company: Spa Morada do Sol
         location: Canoa Quebrada - CE
-        position: Terapeuta
+        position: Naturóloga
         start_date: 2013
         end_date: 2013
 

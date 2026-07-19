@@ -27,14 +27,20 @@ cv:
   sections:
     Education:
       - institution: Faculdade Iguaçu / Faculeste
-        area: Especialista em Terapia Floral e Iridologia
+        area: Especialista em Iridologia (700 horas)
         studyType: Pós-Graduação Lato Sensu
-        start_date: 2024
+        start_date: 2023
         end_date: 2025
         highlights:
-          - "Iridologia (700 horas)"
-          - "Terapia Floral (700 horas)"
-          - "<br><div style='display:flex; flex-wrap:wrap; gap:10px;'><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_iridologia.png' style='max-width: 45%; min-width: 200px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/> <img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_floral.png' style='max-width: 45%; min-width: 200px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></div>"
+          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_iridologia.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
+
+      - institution: Faculdade Iguaçu / Faculeste
+        area: Especialista em Terapia Floral (700 horas)
+        studyType: Pós-Graduação Lato Sensu
+        start_date: 2023
+        end_date: 2024
+        highlights:
+          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_floral.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
 
       - institution: Uniasselvi
         location: Blumenau - SC

@@ -19,7 +19,6 @@ toc:
     -webkit-user-select: none;
   }
   .protected-cert img {
-    pointer-events: none;
     user-drag: none;
     -webkit-user-drag: none;
   }

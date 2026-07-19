@@ -2,6 +2,8 @@ cv:
   name: Silviane Silvério
   label: Biomédica Integrativa | Naturopata e Iridologista | Pesquisadora e Escritora
   email: promotordesaudecontato@gmail.com
+  phone: "Seu Número de WhatsApp Aqui"
+  url: "https://www.praticasdeautoconhecimento.org/"
   location: São Paulo, Brasil
   image: "assets/img/cv/foto_perfil.jpg"
   summary: |
@@ -20,6 +22,21 @@ cv:
     - network: YouTube
       username: olhopreditivo
       url: https://www.youtube.com/@olhopreditivo
+    - network: Quora
+      username: Silviane Silvério
+      url: https://pt.quora.com/profile/Silviane-Silv%C3%A9rio-2
+    - network: SciProfiles
+      username: silvianesilverio
+      url: https://sciprofiles.com/profile/silvianesilverio
+    - network: ResearchGate
+      username: Silviane Silverio
+      url: https://www.researchgate.net/profile/Silviane-Silverio
+    - network: Google Scholar
+      username: Silviane Silvério
+      url: https://scholar.google.com/citations?hl=pt-BR&user=Fxh-NqwAAAAJ
+    - network: Academia.edu
+      username: Silviane Silvério
+      url: https://independent.academia.edu/Silv%C3%A9rioSilviane
     - network: Blogger
       username: curriculumvitaebiomedica
       url: https://curriculumvitaebiomedica.blogspot.com/

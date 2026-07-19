@@ -26,6 +26,17 @@ cv:
 
   sections:
     Education:
+      - institution: Uniasselvi
+        location: Blumenau - SC
+        area: Biomedicina
+        studyType: Bacharelado
+        start_date: 2019
+        end_date: 2023
+        score: "3200 horas"
+        highlights:
+          - "Estágio de laboratório em análises clínicas em 2023 no Hospital Waldemar De Alcântara na cidade de Mulungu no Ceará."
+          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/diploma_biomedicina.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; margin-top: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
+
       - institution: Faculdade Iguaçu / Faculeste
         area: Especialista em Iridologia (700 horas)
         studyType: Pós-Graduação Lato Sensu
@@ -41,17 +52,6 @@ cv:
         end_date: 2024
         highlights:
           - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_floral.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
-
-      - institution: Uniasselvi
-        location: Blumenau - SC
-        area: Biomedicina
-        studyType: Bacharelado
-        start_date: 2019
-        end_date: 2023
-        score: "3200 horas"
-        highlights:
-          - "Estágio de laboratório em análises clínicas em 2023 no Hospital Waldemar De Alcântara na cidade de Mulungu no Ceará."
-          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/diploma_biomedicina.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; margin-top: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
 
       - institution: Instituto de Naturologia e Capelania do Ceará (IBRANAC)
         location: Fortaleza - CE

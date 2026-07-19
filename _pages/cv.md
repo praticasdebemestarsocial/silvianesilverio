@@ -27,19 +27,31 @@ img[src*='foto_perfil.jpg'] {
 <script>
 // Traduz os termos em inglês do layout padrão do currículo
 document.addEventListener("DOMContentLoaded", function() {
-    // Substituição direta no HTML para ser à prova de quebras de linha
-    const contentDiv = document.querySelector('.post');
+    function traduzirNosDeTexto(node) {
+        if (node.nodeType === Node.TEXT_NODE) {
+            let original = node.nodeValue;
+            let traduzido = original
+                .replace("Contact Information", "Contato")
+                .replace("Name", "Nome")
+                .replace("Professional Title", "Profissão")
+                .replace("Education", "Educação (Graduação e Pós)")
+                .replace("Experience", "Experiência Profissional")
+                .replace("Certificates", "Cursos de Formação e Eventos")
+                .replace("Awards", "Congressos e Seminários");
+            
+            if (original !== traduzido) {
+                node.nodeValue = traduzido;
+            }
+        } else {
+            // Percorre os filhos recursivamente
+            node.childNodes.forEach(traduzirNosDeTexto);
+        }
+    }
+    
+    // Inicia a varredura dentro da área principal da página
+    const contentDiv = document.querySelector('article');
     if (contentDiv) {
-        let html = contentDiv.innerHTML;
-        html = html.replace(/>\s*Contact Information\s*</g, '>Contato<');
-        html = html.replace(/>\s*Name\s*</g, '>Nome<');
-        html = html.replace(/>\s*Professional\s*<br>\s*Title\s*</g, '>Profissão<');
-        html = html.replace(/>\s*Professional Title\s*</g, '>Profissão<');
-        html = html.replace(/>\s*Education\s*</g, '>Educação (Graduação e Pós)<');
-        html = html.replace(/>\s*Experience\s*</g, '>Experiência Profissional<');
-        html = html.replace(/>\s*Certificates\s*</g, '>Cursos de Formação e Eventos<');
-        html = html.replace(/>\s*Awards\s*</g, '>Congressos e Seminários<');
-        contentDiv.innerHTML = html;
+        traduzirNosDeTexto(contentDiv);
     }
 });
 </script>

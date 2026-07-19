@@ -161,21 +161,18 @@ cv:
         end_date: 2009
 
     Certificates:
-      - name: "Gestão de Práticas Integrativas e Complementares (80h)"
+      - name: "<a href='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_gestao.png' target='_blank' style='text-decoration: underline;'>Gestão de Práticas Integrativas e Complementares (80h)</a>"
         date: 2022
         issuer: AVASUS (Ministério da Saúde)
         icon: fa-solid fa-award
-        url: "/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_gestao.png"
-      - name: "Qualificação em Plantas Medicinais e Fitoterápicos na Atenção Básica (100h)"
+      - name: "<a href='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_plantas.png' target='_blank' style='text-decoration: underline;'>Qualificação em Plantas Medicinais e Fitoterápicos na Atenção Básica (100h)</a>"
         date: 2022
         issuer: AVASUS (Ministério da Saúde)
         icon: fa-solid fa-award
-        url: "/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_plantas.png"
-      - name: "Práticas Corporais e Mentais na Medicina Tradicional Chinesa (60h)"
+      - name: "<a href='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_mtc.png' target='_blank' style='text-decoration: underline;'>Práticas Corporais e Mentais na Medicina Tradicional Chinesa (60h)</a>"
         date: 2022
         issuer: AVASUS (Ministério da Saúde)
         icon: fa-solid fa-award
-        url: "/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_mtc.png"
       - name: "Terapeuta Homeopata (300h)"
         date: 2020
         issuer: Escola de Cidadania Pedro Yamaguchi Ferreira

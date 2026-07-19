@@ -87,6 +87,8 @@ cv:
       - company: Clínica Long Life
         location: Blumenau - SC
         position: Massoterapeuta
+        start_date: 2017
+        end_date: 2018
         summary: "Prestação de serviço como massoterapeuta em eventos corporativos."
 
       - company: Pousada Kapitão Tomaz

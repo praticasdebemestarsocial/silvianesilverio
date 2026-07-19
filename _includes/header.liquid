@@ -162,9 +162,12 @@ img[src*='foto_perfil.jpg'], img[src*='silviane.jpeg'] {
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Remove negrito/itálico forçado das descrições do currículo (rendercv usa strong/em/b por padrão nas descrições) */
-.cv p, .cv .summary, .cv em, .cv b, .cv strong {
-    font-weight: 300 !important;
+/* Remove negrito/itálico forçado das descrições do currículo */
+.list-group-item p, 
+.list-group-item em, 
+.list-group-item strong, 
+.list-group-item h6:not(.title) {
+    font-weight: 400 !important;
     font-style: normal !important;
 }
 </style>

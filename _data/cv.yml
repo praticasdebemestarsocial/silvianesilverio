@@ -201,14 +201,7 @@ cv:
         date: 2020
         issuer: Escola de Cidadania Pedro Yamaguchi Ferreira
         icon: fa-solid fa-award
-      - name: "I Congresso Internacional de Olhodiagnose & Saúde Integral (20h)<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_congresso_olhodiagnose_2017.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
-        date: 2017
-        issuer: Grand Medicine / Eyology Brasil
-        icon: fa-solid fa-award
-      - name: "VI Congresso Brasileiro de Naturopatia e Iridologia (30h)<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_congresso_naturopatia_2016.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
-        date: 2016
-        issuer: Projeto Plátano / Uniquanti
-        icon: fa-solid fa-award
+
       - name: "Professora de Yoga (72h)"
         date: 2012
         issuer: Loknath Institute of Yoga (Índia)
@@ -218,8 +211,8 @@ cv:
       - title: "I Congresso Internacional de Olhodiagnose & Saúde Integral (20h)"
         date: 2017
         awarder: Instute Grand Medicine EUA (Florianópolis)
-        summary: "⚠️ **Atenção:** A foto deste congresso deve ser adicionada na pasta `assets/img/cv/` com o nome `congresso_eua.jpg`.<br/><img src='/al-folio/assets/img/cv/congresso_eua.jpg' style='max-width:300px; margin-top:10px;'/>"
+        summary: "<br/><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_congresso_olhodiagnose_2017.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
       - title: "VI Congresso Brasileiro de Naturopatia e Iridologia (30h)"
         date: 2016
         awarder: Uniquanti (Curitiba)
-        summary: "⚠️ **Atenção:** A foto deste congresso deve ser adicionada na pasta `assets/img/cv/` com o nome `congresso_uniquanti.jpg`.<br/><img src='/al-folio/assets/img/cv/congresso_uniquanti.jpg' style='max-width:300px; margin-top:10px;'/>"
+        summary: "<br/><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_congresso_naturopatia_2016.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"

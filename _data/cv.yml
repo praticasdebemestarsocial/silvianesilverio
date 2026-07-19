@@ -80,6 +80,14 @@ cv:
         highlights:
           - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_ozonioterapia_medicinal.jpg' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
 
+      - institution: UNIFESP
+        area: IV Curso Cannabis Medicinal (60 horas)
+        studyType: Curso de Extensão
+        start_date: 2020
+        end_date: 2021
+        highlights:
+          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_cannabis_medicinal.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
+
     Experience:
       - company: Autônoma (Escritora e Criadora de Conteúdo)
         position: Biomédica Integrativa, Pesquisadora e Escritora

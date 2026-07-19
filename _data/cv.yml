@@ -60,6 +60,8 @@ cv:
         start_date: 2010
         end_date: 2010
         score: "1300 horas"
+        highlights:
+          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/diploma_naturologia.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
 
       - institution: INAESP Educacional
         area: Ozonioterapia Estética (40 horas)

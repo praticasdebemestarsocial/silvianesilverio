@@ -207,6 +207,11 @@ cv:
         issuer: Loknath Institute of Yoga (Índia)
         icon: fa-solid fa-award
 
+      - name: "Iridologia (192h)<br><span class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_iridologia_itc.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/></span>"
+        date: 2011
+        issuer: Instituto de Terapias Complementares
+        icon: fa-solid fa-award
+
     Awards:
       - title: "I Congresso Internacional de Olhodiagnose & Saúde Integral (20h)"
         date: 2017

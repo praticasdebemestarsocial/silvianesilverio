@@ -36,34 +36,34 @@ Mais do que uma escola, este é um ecossistema de aprendizado e pesquisa. Aqui, 
 <h3 class="mt-5">Nossos Pilares</h3>
 
 ```mermaid
-flowchart LR
-    %% Nós do Lado Esquerdo (com setas para a esquerda)
-    P3_1(Aliamos o rigor da ciência<br/>biomédica contemporânea à<br/>sabedoria ancestral das plantas e<br/>da naturologia.) <-- P3
-    P3_2(Entendemos que a natureza é a<br/>primeira farmácia e que o cuidado<br/>com o corpo físico é o alicerce<br/>fundamental para a clareza<br/>mental e o equilíbrio emocional.) <-- P3
+graph LR
+    %% Lado Esquerdo (Nó --- Pai) (Posiciona os sub-nós à esquerda da Raiz)
+    P3_1(Aliamos o rigor da ciência<br/>biomédica contemporânea à<br/>sabedoria ancestral das plantas e<br/>da naturologia.) --- P3
+    P3_2(Entendemos que a natureza é a<br/>primeira farmácia e que o cuidado<br/>com o corpo físico é o alicerce<br/>fundamental para a clareza<br/>mental e o equilíbrio emocional.) --- P3
     
-    P4_1(Acreditamos que a transformação<br/>interior não é um ato isolado.) <-- P4
-    P4_2(O desenvolvimento pessoal,<br/>quando bem orientado,<br/>transborda em impacto social.) <-- P4
-    P4_3(Formamos indivíduos mais<br/>íntegros, capazes de atuar em<br/>suas comunidades com maior<br/>percepção, ética e propósito.) <-- P4
+    P4_1(Acreditamos que a transformação<br/>interior não é um ato isolado.) --- P4
+    P4_2(O desenvolvimento pessoal,<br/>quando bem orientado,<br/>transborda em impacto social.) --- P4
+    P4_3(Formamos indivíduos mais<br/>íntegros, capazes de atuar em<br/>suas comunidades com maior<br/>percepção, ética e propósito.) --- P4
 
-    P3[Biomedicina Integrativa e<br/>Etnobotânica] <-- Root((Nossos Pilares))
-    P4[Desenvolvimento Humano e<br/>Bem-Estar Social] <-- Root
+    P3[Biomedicina Integrativa e<br/>Etnobotânica] --- Root((Nossos Pilares))
+    P4[Desenvolvimento Humano e<br/>Bem-Estar Social] --- Root
 
-    %% Nós do Lado Direito (com setas para a direita)
-    Root --> P1[Psicologia Profunda e Expansão<br/>da Consciência]
-    Root --> P2[Filosofia Ancestral e<br/>Cosmovisões Integrativas]
+    %% Lado Direito (Pai --- Nó) (Posiciona a Raiz à esquerda dos sub-nós)
+    Root --- P1[Psicologia Profunda e Expansão<br/>da Consciência]
+    Root --- P2[Filosofia Ancestral e<br/>Cosmovisões Integrativas]
 
-    P1 --> P1_1(Inspirados na tradição junguiana e<br/>transpessoal,)
-    P1_1 --> P1_1_1(Oferecemos métodos para a<br/>exploração da psique e dos<br/>arquétipos.)
-    P1_1 --> P1_1_2(O autoconhecimento é tratado<br/>como um processo de<br/>individuação.)
-    P1_1 --> P1_1_3(Convidamos o indivíduo a integrar<br/>sua sombra e expandir sua<br/>consciência de forma estruturada<br/>e segura.)
+    P1 --- P1_1(Inspirados na tradição junguiana e<br/>transpessoal,)
+    P1_1 --- P1_1_1(Oferecemos métodos para a<br/>exploração da psique e dos<br/>arquétipos.)
+    P1_1 --- P1_1_2(O autoconhecimento é tratado<br/>como um processo de<br/>individuação.)
+    P1_1 --- P1_1_3(Convidamos o indivíduo a integrar<br/>sua sombra e expandir sua<br/>consciência de forma estruturada<br/>e segura.)
 
-    P2 --> P2_1(Resgatamos a sabedoria dos<br/>povos originários)
-    P2_1 --> P2_1_1(A ancestralidade das Américas, a<br/>astronomia e a filosofia Maia.)
-    P2_1 --> P2_1_2(A ancestralidade filosófica da<br/>Cultura e da Medicina Tradicional<br/>Chinesa)
+    P2 --- P2_1(Resgatamos a sabedoria dos<br/>povos originários)
+    P2_1 --- P2_1_1(A ancestralidade das Américas, a<br/>astronomia e a filosofia Maia.)
+    P2_1 --- P2_1_2(A ancestralidade filosófica da<br/>Cultura e da Medicina Tradicional<br/>Chinesa)
 
-    P2 --> P2_2(Ensinamos a observar a saúde)
-    P2_2 --> P2_2_1(Não como uma linha reta de<br/>sintomas, mas como um ciclo de<br/>harmonia com a natureza,)
-    P2_2 --> P2_2_2(O cosmos e o tempo, integrando a<br/>visão sistêmica do corpo e da<br/>mente.)
+    P2 --- P2_2(Ensinamos a observar a saúde)
+    P2_2 --- P2_2_1(Não como uma linha reta de<br/>sintomas, mas como um ciclo de<br/>harmonia com a natureza,)
+    P2_2 --- P2_2_2(O cosmos e o tempo, integrando a<br/>visão sistêmica do corpo e da<br/>mente.)
 ```
 
 <h3 class="mt-5">Por que nos acompanhar?</h3>

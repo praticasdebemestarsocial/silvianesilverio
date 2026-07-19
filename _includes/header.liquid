@@ -170,6 +170,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (node.nodeType === Node.TEXT_NODE) {
             let original = node.nodeValue;
             let traduzido = original
+                .replace("Professional Summary", "Resumo Profissional")
                 .replace("Contact Information", "Contato")
                 .replace("Name", "Nome")
                 .replace("Professional Title", "Profissão")

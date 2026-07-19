@@ -27,23 +27,19 @@ img[src*='foto_perfil.jpg'] {
 <script>
 // Traduz os termos em inglês do layout padrão do currículo
 document.addEventListener("DOMContentLoaded", function() {
-    const translations = {
-        "Contact Information": "Informações de Contato",
-        "Name": "Nome",
-        "Professional Title": "Título Profissional",
-        "Email": "E-mail",
-        "Education": "Educação (Graduação e Pós)",
-        "Experience": "Experiência Profissional",
-        "Certificates": "Cursos de Formação e Eventos",
-        "Awards": "Congressos e Seminários"
-    };
-
-    // Percorre todos os títulos e células de tabela
-    document.querySelectorAll("h3, h2, th, td, span").forEach(el => {
-        const text = el.innerText.trim();
-        if (translations[text]) {
-            el.innerText = translations[text];
-        }
-    });
+    // Substituição direta no HTML para ser à prova de quebras de linha
+    const contentDiv = document.querySelector('.post');
+    if (contentDiv) {
+        let html = contentDiv.innerHTML;
+        html = html.replace(/>\s*Contact Information\s*</g, '>Contato<');
+        html = html.replace(/>\s*Name\s*</g, '>Nome<');
+        html = html.replace(/>\s*Professional\s*<br>\s*Title\s*</g, '>Profissão<');
+        html = html.replace(/>\s*Professional Title\s*</g, '>Profissão<');
+        html = html.replace(/>\s*Education\s*</g, '>Educação (Graduação e Pós)<');
+        html = html.replace(/>\s*Experience\s*</g, '>Experiência Profissional<');
+        html = html.replace(/>\s*Certificates\s*</g, '>Cursos de Formação e Eventos<');
+        html = html.replace(/>\s*Awards\s*</g, '>Congressos e Seminários<');
+        contentDiv.innerHTML = html;
+    }
 });
 </script>

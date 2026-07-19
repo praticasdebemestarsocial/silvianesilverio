@@ -197,9 +197,9 @@ document.addEventListener("DOMContentLoaded", function() {
         for (let td of tds) {
             if (td.innerText.includes("Silviane Silvério")) {
                 if (!td.querySelector('.foto-perfil-cv')) {
-                    td.innerHTML = `<div style="display: flex; align-items: center; justify-content: space-between;">
+                    td.innerHTML = `<div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
                                        <span>${td.innerHTML}</span>
-                                       <img src="/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/foto_perfil.jpg" class="foto-perfil-cv" style="border-radius: 50%; width: 90px; height: 90px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.15); border: 2px solid #fff; margin-left: 15px;">
+                                       <img src="/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/foto_perfil.jpg" class="foto-perfil-cv" style="border-radius: 50%; width: 90px; height: 90px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.15); border: 2px solid #fff;">
                                     </div>`;
                 }
                 break;

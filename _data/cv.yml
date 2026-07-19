@@ -173,7 +173,7 @@ cv:
         date: 2022
         issuer: AVASUS (Ministério da Saúde)
         icon: fa-solid fa-award
-      - name: "Terapeuta Homeopata (300h)"
+      - name: "Terapeuta Homeopata (300h)<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_homeopatia.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
         date: 2020
         issuer: Escola de Cidadania Pedro Yamaguchi Ferreira
         icon: fa-solid fa-award

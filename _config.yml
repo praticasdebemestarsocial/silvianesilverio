@@ -339,8 +339,8 @@ display_categories: ["Saude Integrativa", "Desenvolvimento Humano", "Filosofia A
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Silvério, Silverio, SILVERIO]
+  first_name: [Silviane, S., SILVIANE]
 
   style: apa
   locale: en

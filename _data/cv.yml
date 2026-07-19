@@ -59,7 +59,7 @@ cv:
         score: "3200 horas"
         highlights:
           - "Estágio de laboratório em análises clínicas em 2023 no Hospital Waldemar De Alcântara na cidade de Mulungu no Ceará."
-          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/diploma_biomedicina.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; margin-top: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
+          - "<br><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/diploma_biomedicina.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; margin-top: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></div>"
 
       - institution: Faculdade Iguaçu / Faculeste
         area: Especialista em Iridologia (700 horas)
@@ -67,7 +67,7 @@ cv:
         start_date: 2023
         end_date: 2025
         highlights:
-          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_iridologia.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
+          - "<br><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_iridologia.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></div>"
 
       - institution: Faculdade Iguaçu / Faculeste
         area: Especialista em Terapia Floral (700 horas)
@@ -75,7 +75,7 @@ cv:
         start_date: 2023
         end_date: 2024
         highlights:
-          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_floral.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
+          - "<br><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_floral.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></div>"
 
       - institution: Instituto de Naturologia e Capelania do Ceará (IBRANAC)
         location: Fortaleza - CE
@@ -85,7 +85,7 @@ cv:
         end_date: 2010
         score: "1300 horas"
         highlights:
-          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/diploma_naturologia.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
+          - "<br><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/diploma_naturologia.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></div>"
 
       - institution: INAESP Educacional
         area: Ozonioterapia Estética (40 horas)
@@ -93,7 +93,7 @@ cv:
         start_date: 2020
         end_date: 2020
         highlights:
-          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_ozonioterapia_estetica.jpg' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
+          - "<br><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_ozonioterapia_estetica.jpg' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></div>"
 
       - institution: Clínica Sustentare Saúde
         location: Rio de Janeiro - RJ
@@ -102,7 +102,7 @@ cv:
         start_date: 2019
         end_date: 2019
         highlights:
-          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_ozonioterapia_medicinal.jpg' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
+          - "<br><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_ozonioterapia_medicinal.jpg' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></div>"
 
       - institution: UNIFESP
         area: IV Curso Cannabis Medicinal (60 horas)
@@ -110,7 +110,7 @@ cv:
         start_date: 2020
         end_date: 2021
         highlights:
-          - "<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_cannabis_medicinal.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/>"
+          - "<br><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_cannabis_medicinal.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></div>"
 
     Experience:
       - company: Autônoma (Escritora e Criadora de Conteúdo)
@@ -185,24 +185,24 @@ cv:
         end_date: 2009
 
     Certificates:
-      - name: "Gestão de Práticas Integrativas e Complementares (80h)<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_gestao.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
+      - name: "Gestão de Práticas Integrativas e Complementares (80h)<br><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_gestao.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/></div>"
         date: 2022
         issuer: AVASUS (Ministério da Saúde)
         icon: fa-solid fa-award
-      - name: "Qualificação em Plantas Medicinais e Fitoterápicos na Atenção Básica (100h)<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_plantas.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
+      - name: "Qualificação em Plantas Medicinais e Fitoterápicos na Atenção Básica (100h)<br><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_plantas.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/></div>"
         date: 2022
         issuer: AVASUS (Ministério da Saúde)
         icon: fa-solid fa-award
-      - name: "Práticas Corporais e Mentais na Medicina Tradicional Chinesa (60h)<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_mtc.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
+      - name: "Práticas Corporais e Mentais na Medicina Tradicional Chinesa (60h)<br><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_avasus_mtc.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/></div>"
         date: 2022
         issuer: AVASUS (Ministério da Saúde)
         icon: fa-solid fa-award
-      - name: "Terapeuta Homeopata (300h)<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_homeopatia.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
+      - name: "Terapeuta Homeopata (300h)<br><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_homeopatia.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/></div>"
         date: 2020
         issuer: Escola de Cidadania Pedro Yamaguchi Ferreira
         icon: fa-solid fa-award
 
-      - name: "Professora de Yoga (150h)<br><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_yoga_loknath.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
+      - name: "Professora de Yoga (150h)<br><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_yoga_loknath.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/></div>"
         date: 2012
         issuer: Loknath Institute of Yoga (Índia)
         icon: fa-solid fa-award
@@ -211,8 +211,9 @@ cv:
       - title: "I Congresso Internacional de Olhodiagnose & Saúde Integral (20h)"
         date: 2017
         awarder: Instute Grand Medicine EUA (Florianópolis)
-        summary: "<br/><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_congresso_olhodiagnose_2017.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
+        summary: "<br/><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_congresso_olhodiagnose_2017.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/></div>"
       - title: "VI Congresso Brasileiro de Naturopatia e Iridologia (30h)"
         date: 2016
         awarder: Uniquanti (Curitiba)
-        summary: "<br/><img src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_congresso_naturopatia_2016.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/>"
+        summary: "<br/><div class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_congresso_naturopatia_2016.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/></div>"
+

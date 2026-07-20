@@ -12,6 +12,14 @@ toc:
 ---
 
 <style>
+  .post table {
+    table-layout: fixed;
+    width: 100%;
+  }
+  .post td, .post th, .cv table, .cv td {
+    word-break: break-word;
+    overflow-wrap: break-word;
+  }
   .protected-cert {
     position: relative;
     display: inline-block;

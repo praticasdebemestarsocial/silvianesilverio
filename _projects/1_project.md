@@ -2,15 +2,15 @@
 layout: page
 title: Faça do seu leite um remédio
 description: O que realmente existe em um copo de leite?
-img: assets/img/12.jpg
+img: assets/img/capa_leite.jpg
 importance: 1
 category: work
 ---
 
 <div class="row mb-4">
     <div class="col-sm-4 mt-3 mt-md-0 text-center">
-        <!-- Substitua 'assets/img/12.jpg' pelo caminho da imagem da capa que você enviou assim que salvá-la no projeto -->
-        {% include figure.liquid loading="eager" path="assets/img/12.jpg" title="Capa do Livro" class="img-fluid rounded z-depth-1" %}
+        <!-- Imagem da capa baixada automaticamente da Amazon -->
+        {% include figure.liquid loading="eager" path="assets/img/capa_leite.jpg" title="Capa do Livro" class="img-fluid rounded z-depth-1" %}
         
         <div class="mt-4">
             <a href="https://www.amazon.com.br/Fa%C3%A7a-seu-leite-rem%C3%A9dio-medicinas-ebook/dp/B0FLW9SSBP" target="_blank" class="btn btn-primary font-weight-bold" style="background-color: #f0c14b; color: #111; border-color: #a88734 #9c7e31 #846a29;">

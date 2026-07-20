@@ -69,13 +69,6 @@ cv:
         highlights:
           - "<br><span class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_floral.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></span>"
 
-      - institution: INESPEC
-        area: Auxiliar de Laboratório de Análises Clínicas (200 horas)
-        studyType: Capacitação Profissional
-        start_date: 2015
-        end_date: 2015
-        highlights:
-          - "<br><span class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_auxiliar_laboratorio_inespec.png' style='max-width: 100%; max-width: 600px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></span>"
 
       - institution: Faculdade Iguaçu / Faculeste
         area: Especialista em Iridologia (700 horas)
@@ -223,6 +216,11 @@ cv:
       - name: "Curso de Shiatsu (60h)<br><span class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_shiatsu_acusnatus.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/></span>"
         date: 2012
         issuer: Instituto Acus Natus
+        icon: fa-solid fa-award
+
+      - name: "Auxiliar de Laboratório de Análises Clínicas (200h)<br><span class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_auxiliar_laboratorio_inespec.png' style='max-width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); margin-top: 10px; display: block;'/></span>"
+        date: 2015
+        issuer: INESPEC
         icon: fa-solid fa-award
 
     Awards:

@@ -62,20 +62,28 @@ cv:
           - "<br><span class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/diploma_biomedicina.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; margin-top: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></span>"
 
       - institution: Faculdade Iguaçu / Faculeste
-        area: Especialista em Iridologia (700 horas)
-        studyType: Pós-Graduação Lato Sensu
-        start_date: 2023
-        end_date: 2025
-        highlights:
-          - "<br><span class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_iridologia.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></span>"
-
-      - institution: Faculdade Iguaçu / Faculeste
         area: Especialista em Terapia Floral (700 horas)
         studyType: Pós-Graduação Lato Sensu
         start_date: 2023
         end_date: 2024
         highlights:
           - "<br><span class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_floral.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></span>"
+
+      - institution: INESPEC
+        area: Auxiliar de Laboratório de Análises Clínicas (200 horas)
+        studyType: Capacitação Profissional
+        start_date: 2015
+        end_date: 2015
+        highlights:
+          - "<br><span class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/cert_auxiliar_laboratorio_inespec.png' style='max-width: 100%; max-width: 600px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></span>"
+
+      - institution: Faculdade Iguaçu / Faculeste
+        area: Especialista em Iridologia (700 horas)
+        studyType: Pós-Graduação Lato Sensu
+        start_date: 2023
+        end_date: 2025
+        highlights:
+          - "<br><span class='protected-cert' oncontextmenu='return false;'><img draggable='false' src='/Blog_-Praticas-de-Bem-Estar-Social/assets/img/cv/certificado_iridologia.png' style='max-width: 100%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);'/></span>"
 
       - institution: Instituto de Naturologia e Capelania do Ceará (IBRANAC)
         location: Fortaleza - CE

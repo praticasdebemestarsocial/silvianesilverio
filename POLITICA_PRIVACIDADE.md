@@ -6,10 +6,8 @@ nav: false
 ---
 # Política de Privacidade
 
-A sua privacidade é importante para nós. É política deste blog respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar.
+Este repositório e os materiais vinculados a este projeto respeitam a privacidade dos leitores e visitantes. 
 
-1. **Coleta de Informações:** Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço, fazendo-o por meios justos e legais, com o seu conhecimento e consentimento.
-2. **Uso de Informações:** Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, os protegemos dentro de meios comercialmente aceitáveis para evitar perdas e roubos, bem como acesso, divulgação, cópia, uso ou modificação não autorizados.
-3. **Compartilhamento de Informações:** Não compartilhamos informações de identificação pessoal publicamente ou com terceiros, exceto quando exigido por lei.
+Como o conteúdo é hospedado em plataformas de acesso público (como o GitHub), nenhuma dado pessoal sensível é coletado diretamente por esta autora através de cadastros internos ou formulários de rastreamento comercial. 
 
-O uso continuado de nosso site será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais.
+Quaisquer dados coletados de forma automatizada pela plataforma de hospedagem seguem estritamente as políticas de privacidade e termos de uso do próprio provedor (GitHub).

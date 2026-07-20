@@ -4,10 +4,10 @@ title: Aviso Legal
 permalink: /disclaimer/
 nav: false
 ---
-# Aviso Legal (Disclaimer)
+# Aviso Legal e Isenção de Responsabilidade
 
-Todo o conteúdo disponibilizado neste blog, incluindo textos, imagens e pesquisas sobre Práticas Integrativas e Complementares no bem-estar social, tem caráter exclusivamente informativo, educacional e de pesquisa. 
+As informações, artigos e pesquisas disponibilizados neste repositório têm caráter estritamente educacional, científico e informativo sobre Práticas Integrativas e Complementares em saúde e bem-estar.
 
-As informações aqui contidas não substituem, em nenhuma hipótese, o aconselhamento, diagnóstico ou tratamento médico profissional. Consulte sempre um profissional de saúde qualificado antes de iniciar qualquer prática ou se tiver dúvidas sobre uma condição médica.
+O conteúdo aqui publicado reflete estudos, análises e levantamentos independentes e não substitui o diagnóstico, a avaliação, a orientação ou o tratamento médico e clínico profissional. 
 
-A autora, Silviane Silvério, não se responsabiliza por quaisquer consequências resultantes do uso das informações apresentadas neste site. O uso das informações é de inteira responsabilidade do leitor.
+A autora, Silviane Silvério, não se responsabiliza pelo uso inadequado, interpretações equivocadas ou aplicações autônomas das informações aqui contidas sem a devida supervisão de um profissional qualificado.

@@ -6,8 +6,8 @@ nav: false
 ---
 # Termos de Uso
 
-Ao acessar este blog, você concorda em cumprir estes termos de uso, todas as leis e regulamentos aplicáveis e concorda que é responsável pelo cumprimento de todas as leis locais aplicáveis.
+Bem-vindo(a) ao repositório de pesquisas de Silviane Silvério. Ao acessar e utilizar os materiais disponibilizados neste espaço, você concorda com os seguintes termos:
 
-1. **Uso de Licença:** É concedida permissão para o uso do material exclusivamente para fins de referência e pesquisa. O uso parcial ou total dos textos e pesquisas é permitido exclusivamente mediante citação clara e explícita dos devidos créditos à autora, Silviane Silvério.
-2. **Isenção de Responsabilidade:** Os materiais no site são fornecidos 'como estão'. O blog não oferece garantias, expressas ou implícitas, e, por este meio, isenta e nega todas as outras garantias, incluindo, sem limitação, garantias implícitas ou condições de comercialização, adequação a um fim específico ou não violação de propriedade intelectual.
-3. **Modificações:** O blog pode revisar estes termos de serviço do site a qualquer momento, sem aviso prévio. Ao usar este site, você concorda em ficar vinculado à versão atual desses termos de serviço.
+1. *Propriedade Intelectual:* Todos os textos, artigos e pesquisas são de autoria de Silviane Silvério e encontram-se protegidos pelas leis de direitos autorais. A citação e o uso acadêmico/científico são permitidos, desde que acompanhados da devida referência à autora original.
+2. *Uso Proibido:* É vedada a alteração do conteúdo original de forma que distorça o sentido das pesquisas, bem como a comercialização direta dos textos sem autorização prévia por escrito.
+3. *Atualizações:* Estes termos e o conteúdo dos arquivos podem ser atualizados periodicamente pela autora sem aviso prévio.

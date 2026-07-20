@@ -2,7 +2,7 @@
 layout: page
 title: Livros
 permalink: /projects/
-description: Uma cole&ccedil;&atilde;o crescente de projetos incr&iacute;veis.
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
 display_categories: [work]

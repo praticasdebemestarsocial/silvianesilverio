@@ -18,10 +18,3 @@ nav_order: 2
 {% bibliography %}
 
 </div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var input = document.getElementById("bibsearch");
-  if(input) { input.placeholder = "Digite para filtrar..."; }
-});
-</script>

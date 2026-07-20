@@ -1,3 +1,9 @@
+---
+layout: page
+title: Política de Privacidade
+permalink: /politica-de-privacidade/
+nav: false
+---
 # Política de Privacidade
 
 A sua privacidade é importante para nós. É política deste blog respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar.

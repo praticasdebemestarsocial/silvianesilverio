@@ -1,3 +1,9 @@
+---
+layout: page
+title: Termos de Uso
+permalink: /termos-de-uso/
+nav: false
+---
 # Termos de Uso
 
 Ao acessar este blog, você concorda em cumprir estes termos de uso, todas as leis e regulamentos aplicáveis e concorda que é responsável pelo cumprimento de todas as leis locais aplicáveis.

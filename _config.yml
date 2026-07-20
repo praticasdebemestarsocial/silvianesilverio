@@ -11,7 +11,7 @@ contact_note: >
   Siga nossos perfis nas redes sociais
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Reflexões literárias sobre sociedade e bem-estar.
-footer_text: ""
+footer_text: "<a href='{{ site.baseurl }}/disclaimer/'>Aviso Legal</a> &middot; <a href='{{ site.baseurl }}/politica-de-privacidade/'>Política de Privacidade</a> &middot; <a href='{{ site.baseurl }}/termos-de-uso/'>Termos de Uso</a>"
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

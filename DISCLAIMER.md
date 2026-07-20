@@ -1,3 +1,9 @@
+---
+layout: page
+title: Aviso Legal
+permalink: /disclaimer/
+nav: false
+---
 # Aviso Legal (Disclaimer)
 
 Todo o conteúdo disponibilizado neste blog, incluindo textos, imagens e pesquisas sobre Práticas Integrativas e Complementares no bem-estar social, tem caráter exclusivamente informativo, educacional e de pesquisa. 

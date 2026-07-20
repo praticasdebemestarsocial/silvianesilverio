@@ -54,3 +54,25 @@ toc:
 <div style="background-color: #ffebee; color: #b71c1c; padding: 15px; border-radius: 8px; border: 1px solid #ef9a9a; text-align: center; margin-top: 40px; margin-bottom: 40px; font-weight: 500;">
   ⚠️ <strong>AVISO LEGAL:</strong> Todos os documentos apresentados nesta página são de propriedade exclusiva, apenas para consulta. Qualquer reprodução, alteração ou uso indevido será considerado crime e sujeito às medidas legais cabíveis.
 </div>
+
+<br><hr>
+<h3 class="mt-5 mb-4 text-center">Encontros com Personalidades da Iridologia</h3>
+<p class="text-center mb-4">Momentos especiais e trocas de conhecimento com grandes referências mundiais.</p>
+
+<div class="row mb-5">
+    <!-- Substitua 'sua_foto_1.jpg' e o texto abaixo quando fizer o upload das imagens para assets/img/ -->
+    <div class="col-sm-4 mt-3 mt-md-0 text-center">
+        <img src="{{ '/assets/img/template_error.png' | relative_url }}" class="img-fluid rounded z-depth-1 mb-2" alt="Encontro 1" style="object-fit: cover; height: 250px; width: 100%;">
+        <p class="text-muted font-weight-bold mt-2">Dr. Bernard Jensen (Exemplo)</p>
+    </div>
+    
+    <div class="col-sm-4 mt-3 mt-md-0 text-center">
+        <img src="{{ '/assets/img/template_error.png' | relative_url }}" class="img-fluid rounded z-depth-1 mb-2" alt="Encontro 2" style="object-fit: cover; height: 250px; width: 100%;">
+        <p class="text-muted font-weight-bold mt-2">Dr. David J. Pesek (Exemplo)</p>
+    </div>
+    
+    <div class="col-sm-4 mt-3 mt-md-0 text-center">
+        <img src="{{ '/assets/img/template_error.png' | relative_url }}" class="img-fluid rounded z-depth-1 mb-2" alt="Encontro 3" style="object-fit: cover; height: 250px; width: 100%;">
+        <p class="text-muted font-weight-bold mt-2">Ellen Tart-Jensen (Exemplo)</p>
+    </div>
+</div>

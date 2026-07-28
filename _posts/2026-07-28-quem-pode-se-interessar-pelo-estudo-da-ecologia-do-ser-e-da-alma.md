@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quem Pode se Interessar pelo Estudo da Ecologia do Ser e da Alma?"
-date: 2026-07-28 15:30:51 -0300
+date: 2026-07-28 12:00:00 -0300
 categories: [Filosofia Ancestral, Autoconhecimento]
 tags: [ecologia-do-ser, ecologia-da-alma, autoconhecimento, jung, psique, saude-integrativa, bem-estar-social]
 description: "Como a busca por sentido e o resgate da psiquê podem transformar a nossa saúde emocional e coletiva? Um guia sobre quem pode se beneficiar do estudo da Ecologia da Alma."

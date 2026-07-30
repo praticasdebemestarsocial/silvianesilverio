@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chia (Salvia hispanica): Bioquímica, Saciedade e Aplicações na Saúde Integrativa"
-date: 2026-07-31T00:20:00-03:00
+date: 2026-07-30T15:00:00-03:00
 tags: ["Chia", "Salvia_hispanica", "Mucilagem", "Omega_3", "Fibras_Soluveis", "Dietoterapia", "Biomedicina", "Naturologia", "Saude_Integrativa"]
 categories: ["bem-estar"]
 description: "Uma análise integrativa sobre a bioquímica da chia (Salvia hispanica), a formação do gel de mucilagem, a modulação glicêmica e os cuidados no consumo."

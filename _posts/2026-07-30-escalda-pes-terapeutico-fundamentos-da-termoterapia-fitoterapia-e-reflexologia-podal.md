@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Escalda Pés Terapêutico: Fundamentos da Termoterapia, Fitoterapia e Reflexologia Podal"
-date: 2026-07-31T00:10:00-03:00
+date: 2026-07-30T14:00:00-03:00
 tags: ["Escalda_Pes", "Termoterapia", "Reflexologia_Podal", "Fitoterapia", "Aromaterapia", "Biomedicina", "Naturologia", "Saude_Integrativa"]
 categories: ["bem-estar"]
 description: "Explore os fundamentos fisiológicos do escalda pés terapêutico: termoterapia, estímulo reflexológico, absorção transdérmica e diluição segura de óleos essenciais."

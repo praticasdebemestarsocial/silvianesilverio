@@ -2,8 +2,8 @@
 layout: post
 title: "Argiloterapia e Óleos Vegetais: Sinergia Ancestral para a Saúde Integrativa e Estética"
 date: 2026-07-30T13:00:00-03:00
-tags: ["Argiloterapia", "Oleos_Vegetais", "Geoterapia", "Fitoterapia", "Estetica_Integrativa", "Biomedicina", "Naturologia", "Saude_Integrativa"]
-categories: ["bem-estar"]
+tags: ["Argiloterapia", "Oleos_Vegetais", "Geoterapia", "Fitoterapia", "Estética_Integrativa_Bem-Estar", "Biomedicina", "Naturologia", "Saude_Integrativa"]
+categories: ["bem-estar", "Estética_Integrativa_Bem-Estar"]
 description: "Descubra como a combinação de geoterápicos ancestrais e lipídios botânicos promove a desintoxicação cutânea, a saúde da pele e o equilíbrio sistêmico."
 image:
   path: /assets/img/posts/argiloterapia_oleos_vegetais.jpg

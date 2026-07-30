@@ -116,8 +116,6 @@ Quer pesquisar as referências acadêmicas e o histórico das minhas investigaç
 
 ---
 
-### Chamada para Interação
-
 **Reflexão para a comunidade:**  
 Você já pratica alguma técnica de pausa ou higiene visual para aliviar a fadiga ocular no seu dia a dia?  
 Deixe seu comentário abaixo digitando a palavra **"VISÃO INTEGRAL"** e compartilhe suas experiências conosco!

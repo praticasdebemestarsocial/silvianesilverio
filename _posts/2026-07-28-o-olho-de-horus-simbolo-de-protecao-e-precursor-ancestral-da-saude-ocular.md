@@ -127,8 +127,6 @@ Quer pesquisar as referências acadêmicas e o histórico das minhas investigaç
 
 ---
 
-### Chamada para Interação
-
 **Reflexão para a comunidade:**  
 Ao conhecer a história do Olho de Hórus, o que você sente que o seu olhar reflete sobre o seu estado de saúde atual?  
 Deixe seu comentário abaixo digitando a palavra **"RESTAURAÇÃO"** e compartilhe suas reflexões conosco!

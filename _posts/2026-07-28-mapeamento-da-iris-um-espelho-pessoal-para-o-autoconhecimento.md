@@ -121,8 +121,6 @@ Quer pesquisar as referências acadêmicas e o histórico das minhas investigaç
 
 ---
 
-### Chamada para Interação
-
 **Reflexão para a comunidade:**  
 Ao olhar no espelho, o que você sente que a sua íris revela sobre a sua história e vitalidade?  
 Deixe seu comentário abaixo digitando a palavra **"AUTOCUIDADO"** e compartilhe suas reflexões conosco!

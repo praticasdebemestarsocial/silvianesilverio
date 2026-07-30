@@ -121,8 +121,6 @@ Quer pesquisar as referências acadêmicas e o histórico das minhas investigaç
 
 ---
 
-### Chamada para Interação
-
 **Reflexão para a comunidade:**  
 Qual prática ou reflexão tem ajudado você a "sair do piloto automático" e regular suas frequências internas no dia a dia?  
 Deixe seu comentário abaixo digitando a palavra **"TRANSFORMAÇÃO"** e compartilhe suas experiências conosco!

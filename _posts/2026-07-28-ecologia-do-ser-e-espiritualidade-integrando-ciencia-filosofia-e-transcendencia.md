@@ -123,7 +123,5 @@ Quer pesquisar as referências acadêmicas e o histórico das minhas investigaç
 
 ---
 
-### Chamada para Interação
-
 **Reflexão para a comunidade:**  
 Como a busca por sentido e a dimensão espiritual impactam a sua jornada de equilíbrio e resiliência? Deixe seu comentário abaixo digitando a palavra **"TRANSCENDÊNCIA"** e compartilhe suas reflexões conosco!

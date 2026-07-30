@@ -124,8 +124,6 @@ Quer pesquisar as referências acadêmicas e o histórico das minhas investigaç
 
 ---
 
-### Chamada para Interação
-
 **Reflexão para a comunidade:**  
 Conhecer a história por trás do estudo da íris mudou a sua percepção sobre as práticas integrativas?  
 Deixe seu comentário abaixo digitando a palavra **"HISTÓRIA"** e compartilhe suas reflexões conosco!

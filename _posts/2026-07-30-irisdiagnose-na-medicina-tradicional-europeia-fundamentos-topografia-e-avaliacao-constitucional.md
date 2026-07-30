@@ -128,8 +128,6 @@ Quer pesquisar as referências acadêmicas e o histórico das minhas investigaç
 
 ---
 
-### Chamada para Interação
-
 **Reflexão para a comunidade:**  
 Ao observar seus padrões de saúde e vitalidade, qual tendência humoral (linfática, sanguínea ou biliar) você sente que sobressai no seu organismo?  
 Deixe seu comentário abaixo digitando a palavra **"CONSTITUIÇÃO"** e compartilhe suas reflexões conosco!

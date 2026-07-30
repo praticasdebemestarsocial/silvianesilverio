@@ -124,8 +124,6 @@ Quer pesquisar as referências acadêmicas e o histórico das minhas investigaç
 
 ---
 
-### Chamada para Interação
-
 **Reflexão para a comunidade:**  
 Você já realizou um exame de fundo de olho este ano para avaliar sua saúde vascular?  
 Deixe seu comentário abaixo digitando a palavra **"SISTÊMICA"** e compartilhe suas dúvidas e reflexões conosco!
